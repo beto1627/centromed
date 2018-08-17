@@ -1,0 +1,312 @@
+body{
+margin-top:0px;
+margin-right:0px;
+background-color:#FFFFFF;
+margin-left:0px;
+}
+h2{
+padding:0px;
+font-family:Arial, Helvetica, sans-serif;
+color:#333333;
+font-size:16px;
+}
+#perfil{
+padding:0px;
+font-family:Arial, Helvetica, sans-serif;
+color:#CCCCCC;
+font-size:13px;
+}
+#general{
+width:100%;
+margin-left:0px;
+padding:0px;
+float:left;
+background-color:#FFFFFF;
+height:auto;
+}
+#campus{
+width:100%;
+margin-left:0px;
+padding:0px;
+float:left;
+background-color:#FFFFFF;
+height:auto;
+}
+#logo{
+background-position:center;
+text-align:center;
+
+width:391px;
+background-image:url(../images/logose.gif);
+background-repeat:no-repeat;
+height:100px;
+float:left;
+}
+#datosp{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#CCCCCC;
+width:auto;
+height:100px;
+float:right;
+margin-right:20px;
+}
+#publicidad{
+width:0%;
+float:right;
+background-color:#09182A;
+height:600px;
+}
+#cabeceracampus{
+background-color:#000000;
+/*background-image:url(../images/sysedutop1.jpg);*/
+background-repeat:no-repeat;
+width:auto;
+height:100px;
+background-position:center;
+
+vertical-align:middle;
+}
+#menucampus{
+background-color:#243135;
+width:auto;
+height:25px;
+}
+#cuerpocampus{
+width:auto;
+height:auto;
+}
+#menu2campus{
+background-color:#CFCFCF;
+width:15%;
+height:500px;
+float:left;
+padding:0px;
+}
+#contenidocampus{
+background-color:#FFFFFF;
+width:85%;
+height:auto;
+float:right;
+}
+#abajo{
+background-color:#243135;
+width:100%;
+height:35px;
+float:left;
+padding:0px;
+font-family:Arial, Helvetica, sans-serif;
+color:#CFCFCF;
+font-size:10px;
+text-align:center;
+vertical-align:middle;
+}
+
+#tablecont{
+padding:20px;
+width:100%;
+}
+#contenidotable{
+width:100%;
+}
+#botonform{
+padding:5px 10px 5px 10px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+background-color:#8A98A2;
+color:#FFFFFF;
+border:0.5px solid #717171;
+cursor:pointer;
+}
+#botonform:hover{
+padding:5px 10px 5px 10px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+background-color:#536CB5;
+color:#FFFFFF;
+border:0.5px solid #46598E;
+cursor:pointer;
+}
+.cajas{
+margin:3px 3px 3px 3px;
+
+padding:3px;
+font-family:Arial, Helvetica, sans-serif;
+color:#000000;
+font-size:12px;
+border:1px solid #9DC0D0;
+background-color:#FFFFFF;
+}
+.cajas:hover{
+margin:3px 3px 3px 3px;
+size:20px;
+padding:3px;
+font-family:Arial, Helvetica, sans-serif;
+color:#000000;
+font-size:12px;
+border:1px solid #9DC0D0;
+background-color:#E5F5FD;
+}
+#formtablenuevo{
+width:100%;
+}
+#formnuevo{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#000000;
+padding:5px;
+margin-left:10px;
+border-collapse:collapse;
+}
+#formcabecera{
+background-color:#6D84B4;
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#000000;
+padding:10px;
+margin-left:10px;
+border-collapse:collapse;
+font-weight:bold;
+}
+#opcabecera{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#FF1D1D;
+text-decoration:none;
+
+}
+#opcabecera:hover{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#999999;
+text-decoration:underline;
+
+}
+#opcabeceraactiva{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#333333;
+font-weight:bold;
+background-color:#FFFFFF;
+text-decoration:none;
+padding:9px;
+}
+#titulogrado{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#333333;
+font-weight:bold;
+}
+#tituloseccion{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#006699;
+font-weight:bold;
+}
+#error{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#CC0000;
+}
+#grid{
+background-color:#E9E9E9;
+}
+#grid:hover{
+background-color:#DBDBDB;
+}
+#obligatorio{
+color:#DE3A3F;
+}
+#opcional{
+color:#006699;
+}
+#apoyo{
+color:#339900;
+}
+#rojo{
+background-color:#FF9B9D;
+width:80px;
+height:20px;
+border:0.5px solid #999999;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+#blanco{
+background-color:#FFFFFF;
+width:80px;
+height:20px;
+border:0.5px solid #999999;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+#reporte{
+border:1px solid #999999;
+font-family:Arial, Helvetica, sans-serif;
+font-size:10px;
+padding:2px;
+text-align:center;
+}
+#reportenombre{
+border:1px solid #999999;
+font-family:Arial, Helvetica, sans-serif;
+font-size:10px;
+padding:2px;
+text-align:left;
+}
+#datosasignaturatabla{
+width:100%;
+}
+#datosasignatura{
+font-family:Arial, Helvetica, sans-serif;
+font-size:9px;
+text-align:center;
+}
+#reporteprom{
+border:1px solid #999999;
+font-family:Arial, Helvetica, sans-serif;
+font-size:8px;
+padding:2px;
+text-align:center;
+background-color:#F5F5F5;
+font-weight:bold;
+}
+/* ================================================================ 
+This copyright notice must be kept untouched in the stylesheet at 
+all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssplay.co.uk/menus/anywidth-flyout.html
+Copyright (c) 2005-2009 Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+
+#menu { margin:0; }
+
+#menu ul {margin:0; padding:0; list-style:none;  text-align:left;  padding:0;border-bottom:1px solid #CFCFCF; background:#CFCFCF}
+#menu ul ul{background: #8A98A2;white-space:nowrap;}
+#menu ul ul ul{background: #FFF;white-space:nowrap;}
+
+#menu li {margin:0; padding:4px 0; list-style:none;}
+#menu li {display:inline-block; display:inline;}
+#menu ul {position:absolute; left:-9999px;}
+#menu ul.level1 {position:absolute; left:0; width: 150px; line-height: 11px;}
+
+#menu a {display:block; font: normal 13px/14px "Trebuchet MS",arial,sans-serif; color:#000;  text-decoration:none;padding:4px 20px 4px 10px; } 
+#menu a:hover {display:block; font: normal 13px/14px "Trebuchet MS",arial,sans-serif; color:#FFF;  text-decoration:none;padding:4px 20px 4px 10px; } 
+
+#menu ul li:hover > ul {visibility:visible; left:100%; margin-top:-21px; margin-left:-1px;}
+
+#menu a:hover ul,
+#menu a:hover a:hover ul, 
+#menu a:hover a:hover a:hover ul {left:100%; visibility:visible;}
+#menu a:hover ul ul, 
+#menu a:hover a:hover ul ul {left:-9999px;}
+
+#menu li a:hover {background:#8A98A2;} 
+#menu li:hover > a {background: #8A98A2;}
+#menu li a.fly {background: url(mflecha.gif) no-repeat right top;}
+#menu li a.fly:hover {background:#8A98A2 url(mflecha.gif) no-repeat right top;} 
+#menu li:hover > a.fly {background:#8A98A2 url(mflecha.gif) no-repeat right top;}
+
+#menu table {position:absolute; left:99%; height:0; width:0; border-collapse:collapse; margin-top:0px; margin-left:-2px;}
