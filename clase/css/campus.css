@@ -1,0 +1,214 @@
+body{
+margin-top:0px;
+margin-right:0px;
+background-color:#FFFFFF;
+background-image:url(../images/left.jpg);
+background-repeat:repeat-x;
+}
+#principal{
+width:942px;
+background-color:#FFFFFF;
+height:auto;
+margin: 0 auto;
+}
+#cabecera{
+width:942px;
+background-color:#FFFFFF;
+height:97px;
+}
+#logo{
+width:248px;
+background-image:url(../images/logo.gif);
+background-repeat:no-repeat;
+height:97px;
+float:left;
+}
+#publicidad{
+width:694px;
+height:97px;
+float:right;
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+color:#000000;
+text-align:center;
+vertical-align:middle;
+}
+#contenido{
+width:942px;
+background-image:url(../images/pepa.jpg);
+background-repeat:no-repeat;
+height:295px;
+border-collapse: collapse;
+padding:0px;
+}
+#letras{
+float:left;
+height:295px;
+}
+#botones{
+float:right;
+height:295px;
+}
+#opboton{
+width:264px;
+background-image:url(../images/fonboton.png);
+background-repeat:no-repeat;
+height:70px;
+cursor:pointer;
+
+}
+#opboton:hover{
+width:264px;
+background-image:url(../images/fonboton1.png);
+background-repeat:no-repeat;
+height:70px;
+cursor:pointer;
+}
+#linea0{
+width:264px;
+height:50px;
+}
+#linea1{
+width:264px;
+height:5px;
+}
+#login{
+width:942px;
+height:190px;
+border-collapse: collapse;
+padding:0px;
+}
+#tablelogin{
+width:942px;
+height:190px;
+border-collapse: collapse;
+padding:0px;
+border:0px solid #000000;
+}
+#bordecentro{
+width:916px;
+background-color:#222222;
+height:190px;
+border-collapse: collapse;
+padding:0px;
+}
+#bordeleft{
+width:13px;
+background-image:url(../images/bordeleft.gif);
+background-repeat:no-repeat;
+height:190px;
+border-collapse: collapse;
+text-align:right;
+background-position:right;
+padding:0px;
+}
+#borderight{
+width:13px;
+background-image:url(../images/borderight.gif);
+background-repeat:no-repeat;
+height:190px;
+border-collapse: collapse;
+padding:0px;
+}
+#tableletras{
+width:380px;
+height:295px;
+border:0px solid #000000;
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+color:#FFFFFF;
+}
+#letrastitulo{
+font-family:Arial, Helvetica, sans-serif;
+font-size:35px;
+color:#FFFFFF;
+font-weight:bold;
+}
+#tableopciones{
+width:100%;
+height:100%;
+
+margin-left:20px;
+border:0px solid #000000;
+font-family:Arial, Helvetica, sans-serif;
+font-size:22px;
+color:#666666;
+font-weight:bold;
+}
+#servicios{
+width:316px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+color:#999999;
+}
+#flecha{
+width:216px;
+background-image:url(../images/flecha.gif);
+background-repeat:no-repeat;
+height:149px;
+border-collapse: collapse;
+padding:0px;
+}
+#formulario{
+width:316px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+color:#FFFFFF;
+text-align:right;
+}
+#botonform{
+padding:5px 10px 5px 10px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+background-color:#004D93;
+color:#FFFFFF;
+border:0px solid #000000;
+cursor:pointer;
+}
+#botonform:hover{
+padding:5px 10px 5px 10px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+background-color:#4A86BE;
+color:#FFFFFF;
+border:0px solid #000000;
+cursor:pointer;
+}
+#footer{
+width:942px;
+background-color:#000000;
+height:47px;
+font-family:Arial, Helvetica, sans-serif;
+color:#333333;
+font-size:11px;
+text-align:center;
+vertical-align:middle;
+}
+#opcabecera{
+color:#239ECA;
+text-decoration:none;
+}
+#opcabecera:hover{
+color:#000000;
+text-decoration:underline;
+}
+.cajas{
+margin:3px 3px 3px 3px;
+size:20px;
+padding:3px;
+font-family:Arial, Helvetica, sans-serif;
+color:#000000;
+font-size:14px;
+border:0px solid #000000;
+background-color:#FFFFFF;
+}
+.cajas:hover{
+margin:3px 3px 3px 3px;
+size:20px;
+padding:3px;
+font-family:Arial, Helvetica, sans-serif;
+color:#000000;
+font-size:14px;
+border:0px solid #000000;
+background-color:#CCCCCC;
+}
